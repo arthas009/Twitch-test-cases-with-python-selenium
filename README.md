@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Twitch Test Automation
 
 This project automates a series of actions on the mobile version of Twitch using pytest as the test runner.
